@@ -2,6 +2,9 @@
 
 
 ### Connect with me:
-![Alt tekst](https://url/do/slike.jpg)
+<a href="https://www.link.com">
+    <img src="slika.jpg" alt="Opis slike">
+</a>
+
 
 
