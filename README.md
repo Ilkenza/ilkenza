@@ -1,4 +1,5 @@
-# Hi 👋, I'm Korodic Ilija Front-End Developer
+# Hi 👋, I'm Korodic Ilija
+Front-End Developer
 
 ## Connect with me:
 [My Portfolio](https://ilijakorodic.netlify.app/)
